@@ -1,6 +1,10 @@
 # CryptoClustering
 hw 19 CryptoClustering-Challenge
-<Visual Results Provided in Image File>
+
+
+Visual Results Provided in Image File
+
+
 Instructions
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
 
